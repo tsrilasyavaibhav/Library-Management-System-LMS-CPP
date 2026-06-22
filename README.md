@@ -1,7 +1,5 @@
 # Library-Management-System-LMS-CPP
 
-# Library Management System
-
 ## Overview
 
 The Library Management System is a C++ console-based application developed using Object-Oriented Programming (OOP) concepts. It allows users to manage books, members, and borrowing records efficiently through a simple menu-driven interface.
